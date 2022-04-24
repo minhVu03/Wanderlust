@@ -1,0 +1,51 @@
+{"reviews": [
+    {
+        "Comment": "antique, good food",
+        "Score": 3,
+        "Recs": ["west lake"],
+        "Posted by": "Minh",
+        "City Name": "Hanoi",
+        "Tags": ["antique"]
+    },
+    {
+        "Comment": "too rainy",
+        "Score": 4,
+        "Recs": ["stanley park"],
+        "Posted by": "Minh",
+        "City Name": "Vancouver",
+        "Tags": [
+            "cherry blossoms",
+            " ocean"
+        ]
+    },
+    {
+        "Comment": "government city, capital",
+        "Score": 4,
+        "Recs": ["parliament building"],
+        "Posted by": "Minh",
+        "City Name": "Ottawa",
+        "Tags": [
+            "small",
+            " but pretty"
+        ]
+    },
+    {
+        "Comment": "very boring, close to gatineau park though and that's pretty",
+        "Score": 2,
+        "Recs": ["rideau canal"],
+        "Posted by": "Julia",
+        "City Name": "Ottawa",
+        "Tags": [
+            "cold",
+            " snow"
+        ]
+    },
+    {
+        "Comment": "touristy city",
+        "Score": 4,
+        "Recs": ["effiel tower"],
+        "Posted by": "Julia",
+        "City Name": "Paris",
+        "Tags": ["pretty"]
+    }
+]}

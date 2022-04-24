@@ -1,0 +1,18 @@
+{"reviews": [
+  {
+    "Comment": "nice",
+    "Score": 4,
+    "Recs": ["rec1", "rec2"],
+    "Posted by": "Minh",
+    "City Name": "Ottawa",
+    "Tags": ["tag1"]
+  },
+  {
+    "Comment": "pretty",
+    "Score": 3,
+    "Recs": [],
+    "Posted by": "Minh",
+    "City Name": "Vancouver",
+    "Tags": []
+  }
+]}

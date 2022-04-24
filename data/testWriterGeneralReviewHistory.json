@@ -1,0 +1,24 @@
+{"reviews": [
+    {
+        "Comment": "cold",
+        "Score": 3,
+        "Recs": [
+            "rec1",
+            "rec2"
+        ],
+        "Posted by": "Minh",
+        "City Name": "Moscow",
+        "Tags": ["tag1"]
+    },
+    {
+        "Comment": "fancy",
+        "Score": 5,
+        "Recs": [
+            "rec1",
+            "rec2"
+        ],
+        "Posted by": "Julie",
+        "City Name": "Paris",
+        "Tags": ["tag1"]
+    }
+]}
