@@ -17,7 +17,7 @@ I created this project because one of my goals is to be able to see all the pret
 in the world, and to experience new cultures by meeting new people. I think that the hardest part about travelling
 is coming up with a plan and deciding on which places to visit.
 
-Phase 1: User story
+Phase 1: User story  
 As a user, I want to be able to:
 - Add a tag to a list of tags that describes the city
 - Add a recommendation to a list of recommendations of things to do in the city
@@ -97,7 +97,9 @@ reviews from data has to be loaded first (it adds reviews to reviewHistory again
 
 UML Diagram
 
-![](../UML diagram.jpg)
+<p align="center">
+  <img src="img.png" width="350" title="uml diagram">
+</p>
 
 Refactoring and changes to improve this design:
 - Use Observer Pattern to control what gets printed on the screen instead of creating different classes and windows
